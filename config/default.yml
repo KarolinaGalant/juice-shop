@@ -132,6 +132,8 @@ products:
     price: 22.49
     limitPerUser: 5
     image: fan_shirt.jpg
+    reviews :
+      - { text: 'Super koszuleczka koluniu!', autor: kaczak}
   -
     name: 'OWASP Juice Shop CTF Girlie-Shirt'
     description: 'For serious Capture-the-Flag heroines only!'
@@ -261,6 +263,8 @@ products:
     description: 'Sweet & tasty!'
     price: 3.99
     image: strawberry_juice.jpeg
+    reviews:
+      - { text: 'Mój ulubiony soczek! Polecam!', author: kiwiZplastiku }
   -
     name: 'Carrot Juice (1000ml)'
     description: 'As the old German saying goes: "Carrots are good for the eyes. Or has anyone ever seen a rabbit with glasses?"'
