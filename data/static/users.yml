@@ -27,6 +27,49 @@
       expMonth: 4
       expYear: 2086      
 -
+
+  email: kaczak
+  password: 'kaczak123wrvwvwv'
+  key: kaczak
+  role: 'admin'
+  securityQuestion:
+    id: 2
+    answer: 'kjir23rirn'
+  address:
+    - fullName: 'kaczak'
+      mobileNum: 852963741
+      zipCode: '1862'
+      streetAddress: 'Uniwersytecka 5 '
+      city: 'Warsaw'
+      state: 'Mazowian'
+      country: 'Poland
+  card:
+    - fullName: 'kaczak'
+      cardNum: 5107891733378705
+      expMonth: 12
+      expYear: 2022
+-
+  email: kiwiZplastiku
+  password: 'kiwiZplastiku123aefwfwdvw'
+  key: kiwiZplastiku
+  role: 'customer'
+  securityQuestion:
+    id: 2
+    answer: 'efwecwdcwd'
+      address:
+    - fullName: 'kiwiZplastiku'
+      mobileNum: 852876741
+      zipCode: '1865'
+      streetAddress: 'Waryńskiego 10'
+      city: 'Warsaw'
+      state: 'Mazowian'
+      country: 'Poland
+  card:
+    - fullName: 'kiwiZplastiku'
+      cardNum: 5101231733378705
+      expMonth: 9
+      expYear: 2022
+-
   email: jim
   password: 'ncc-1701'
   key: jim
